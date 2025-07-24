@@ -1,4 +1,0 @@
-repository "MetaQuestGame/MetaQuestGame@15669162341029@cloud"
-  path "/"
-    br "/main"
-    co "/main"
